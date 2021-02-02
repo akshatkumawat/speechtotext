@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/akshatkumawat/speechtotext/)
 
-This is a beautiful search screen using outside api and useReducer.
+This is a voice assistant using google speech to text and useReducer.
 in this project you'll learn :
 
   - useEffect
