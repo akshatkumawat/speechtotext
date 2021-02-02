@@ -19,7 +19,7 @@ git clone https://github.com/akshatkumawat/speechtotext.git
 
 ### Installation
 
-requires [Expo](https://docs.expo.io/get-started/installation/) to run.
+requires React Native cli to run.
 
 Install the dependencies and devDependencies and start the server.
 
