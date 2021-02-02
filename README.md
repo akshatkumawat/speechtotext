@@ -29,5 +29,12 @@ $ npm install
 $ npm start
 ```
 
+### Live Test
+ Instructions on how to use them in your own application are linked below.
+
+| platform | Link |
+| ------ | ------ |
+| Snack | [https://snack.expo.io/@xavier_akki/speechtotext] |
+
 
 
